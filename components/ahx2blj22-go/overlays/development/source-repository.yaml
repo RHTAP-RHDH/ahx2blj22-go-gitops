@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ahx2blj22-go-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/ahx2blj22-go
